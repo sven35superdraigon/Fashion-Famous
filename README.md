@@ -1,4 +1,4 @@
-# 🎮 Fashion Famous Script — Auto-Play, ESP, Teleport & More
+# 🎮 Fashion Famous Roblox Script — Auto-Play, ESP, Teleport & More
 
 Welcome to the **Fashion Famous Script** — your ultimate tool to automate gameplay, see through walls, teleport instantly, and dominate the game!
 
